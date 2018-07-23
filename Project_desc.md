@@ -11,6 +11,10 @@ In the late '60s a Polish-born American psychologist [Robert Zajonc](https://en.
 I belive that those two tendencies: 
 + non-conscious processing of familiar stimuli and 
 + mere-exposure effect 
+
 are huge drivers of change and creativity. 
+
+To succeed on any market it is crucial to propose a product that is familiar enough not to seem 'too weird' to your customers and original enough to catch their attention.
+
 
 ![Loudness](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/loudness.png)
