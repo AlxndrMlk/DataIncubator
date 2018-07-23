@@ -16,6 +16,12 @@ are huge drivers of change and creativity.
 
 To succeed on any market it is crucial to propose a product that is familiar enough not to seem 'too weird' to your customers and original enough to catch their attention.
 
+## My motivation
+
+My motivation for this project was to prepare a simple model to see if it is possible to predict which song will more probably become a hit.
+I think about this project as a starting point for a bigger analysis of audio trends. Such an analysis could be useful not only for music industry, but also for business. [Audio branding](https://www.ama.org/publications/MarketingNews/Pages/language-of-audio-branding.aspx) is a dynamically developing marketing market segment. As visual space is more and more cluttered many people start to notice marketing potential behind audio space.
+
+
 ## Music
 
 Music seems to be a good indicator of what is going on in society. Lyrics of popular songs seem to relfect values and aspirations of their listeners. But there is much more information in popular music.
@@ -57,4 +63,12 @@ The **most surprising** thing I discovered in my analysis is a fact that the way
 
 ## Analysis
 
-As proof of concept I fitted linear regression model with **loudness**, **duration** and **'speechiness'** as predictors and **year** as dependent variable. This simple additive model has $$R^2_{adj} = 0.317$$
+As proof of concept I fitted linear regression model with **loudness**, **duration** and **'speechiness'** as predictors and **year** as dependent variable. This simple additive model has **adjusted R^2 = 0.317** and all the predictors are statistically significant at aplha=.05.
+
+## Dataset
+
+Data was scraped form Billboard site, additional data was obtained from Spotify API. The final dataset consisted of 621 (no duplicates) rows with every row containing information about one Billboard Hot 100 No. 1 song.
+
+More details on dataset can be found [here](https://github.com/AlxndrMlk/DataIncubator/blob/master/dataset.md).
+
+
