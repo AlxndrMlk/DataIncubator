@@ -71,4 +71,10 @@ Data was scraped form Billboard site, additional data was obtained from Spotify 
 
 More details on dataset can be found [here](https://github.com/AlxndrMlk/DataIncubator/blob/master/dataset.md).
 
+## Future directions
+
+* Bigger dataset
+* Additional audio analyses (not only information provided by Spotify)
+* Building a hit classifier
+
 
