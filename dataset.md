@@ -5,7 +5,7 @@ The dataset has been generated using two sources:
 * Archive of Billboard Hot 100 from 1980 to 2018 (e.g. https://www.billboard.com/archive/charts/2018/hot-100)
 * Spotify API
 
-## Obtaining data - method
+## Obtaining the data
 Billboard Hot 100 archive was scraped using Python script. The obtained data (song titles and artists' names for a given year) 
 was parsed using Beautiful Soup Python library.
 Then additional editing script was applied to the data to prepare search phrases for Spotify API.
