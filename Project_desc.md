@@ -28,7 +28,7 @@ Few years ago many professionals in the music industry were talking about so cal
 ![Loudness](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/loudness.png)
 
 
-### Durration
+### Duration
 
 My analysis showed that the average Billboard No. 1 song is shorter every year (starting from 1990). We can speculate that it is connected with the fact that many people experience the feeling of having not enough time.
 
@@ -53,3 +53,8 @@ In music theory there's a concept called [key](https://en.wikipedia.org/wiki/Key
 The **most surprising** thing I discovered in my analysis is a fact that the way the most popular key changes year to year is not equiprobable. In other words if the average most popular song of 2017 will be in a key of **G** it is much more probable that the average most popular song of 2018 will be in a key of **G#**, **C#** or **D** than **A** or **D#**.
 
 ![Key changes](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/keys.png)
+
+
+## Analysis
+
+As proof of concept I fitted linear regression model with **loudness**, **duration** and **'speechiness'** as predictors and **year** as dependent variable. This simple additive model has $R^2_{adj} = 0.317$
