@@ -6,6 +6,8 @@ May it be noise of a nearby street or maybe birds singing - whatever you hear of
 
 Nevertheless it does not mean that it stops influencing you.
 
-In the late '60s a Polish-born American psychologist [Robert Zajonc](https://en.wikipedia.org/wiki/Robert_Zajonc) conducted a series of experiments showing that we like things more if we deal with them more frequently. Zajonc called this relationship between liking and frequency **mere exposur effect**.
+In the late '60s a Polish-born American psychologist [Robert Zajonc](https://en.wikipedia.org/wiki/Robert_Zajonc) conducted a series of experiments showing that we like things more if we deal with them more frequently. Zajonc called this relationship between liking and frequency [**mere-exposure effect**](https://en.wikipedia.org/wiki/Mere-exposure_effect).
+
+I belive that those two tendencies: non-conscious processing of familiar stimuli and mere-exposure effect are huge drivers of change and creativity. 
 
 ![Loudness](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/loudness.png)
