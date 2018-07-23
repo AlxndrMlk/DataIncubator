@@ -2,7 +2,7 @@
 
 ## Sources of data
 The dataset has been generated using two sources:
-* Archive of Billboard Hot 100 (e.g. https://www.billboard.com/archive/charts/2018/hot-100)
+* Archive of Billboard Hot 100 from 1980 to 2018 (e.g. https://www.billboard.com/archive/charts/2018/hot-100)
 * Spotify API
 
 ## Obtaining data - method
