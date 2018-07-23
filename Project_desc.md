@@ -57,4 +57,4 @@ The **most surprising** thing I discovered in my analysis is a fact that the way
 
 ## Analysis
 
-As proof of concept I fitted linear regression model with **loudness**, **duration** and **'speechiness'** as predictors and **year** as dependent variable. This simple additive model has $R^2_{adj} = 0.317$
+As proof of concept I fitted linear regression model with **loudness**, **duration** and **'speechiness'** as predictors and **year** as dependent variable. This simple additive model has $$R^2_{adj} = 0.317$$
