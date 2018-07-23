@@ -16,5 +16,13 @@ are huge drivers of change and creativity.
 
 To succeed on any market it is crucial to propose a product that is familiar enough not to seem 'too weird' to your customers and original enough to catch their attention.
 
+## Music
+
+Music seems to be a good indicator of what is going on in society. Lyrics of popular songs seem to relfect values and aspirations of their listeners. But there is much more information in popular music.
+
+### Loudness
+
+Few years ago many professionals in the music industry were talking about so called [loudness war](https://en.wikipedia.org/wiki/Loudness_war). It used to be a hot topic in the 2010's. My analysis shows that despite many critical voices in the industry loudness war continues. The averege Billboard No. 1 song's loudness is higher every year.
+
 
 ![Loudness](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/loudness.png)
