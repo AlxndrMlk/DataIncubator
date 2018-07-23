@@ -6,7 +6,7 @@ The dataset has been generated using two sources:
 * Spotify API
 
 ## Obtaining the data
-Billboard Hot 100 archive was scraped using Python script. The obtained data (song titles and artists' names for a given year) 
+Billboard Hot 100 archive was scraped using Python script. The obtained data (no. 1 song titles and artists' names for every listing for a given year) 
 was parsed using Beautiful Soup Python library.
 Then additional editing script was applied to the data to prepare search phrases for Spotify API.
 Next Spotify API was requested to find a song based on search phrase and return song's Spotify ID.
