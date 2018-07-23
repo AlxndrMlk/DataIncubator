@@ -44,3 +44,12 @@ My analysis showed that the average Billboard No. 1 song is shorter every year (
 The average Billboard No. 1 hit is more and more spoken every year.
 
 ![Speechiness](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/speechiness.png)
+
+
+### Key changes
+
+In music theory there's a concept called [key](https://en.wikipedia.org/wiki/Key_(music)). Key defines which notes will probably appear in the song and which will probably not appear. There are 11 possible keys in classical music theory.
+
+The **most surprising** thing I discovered in my analysis is a fact that the way the most popular key changes year to year is not equiprobable. In other words if the average most popular song of 2017 will be in a key of **G** it is much more probable that the average most popular song of 2018 will be in a key of **G#**, **C#** or **D** than **A** or **D#**.
+
+![Key changes](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/keys.png)
