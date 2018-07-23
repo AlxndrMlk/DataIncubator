@@ -22,7 +22,25 @@ Music seems to be a good indicator of what is going on in society. Lyrics of pop
 
 ### Loudness
 
-Few years ago many professionals in the music industry were talking about so called [loudness war](https://en.wikipedia.org/wiki/Loudness_war). It used to be a hot topic in the 2010's. My analysis shows that despite many critical voices in the industry loudness war continues. The averege Billboard No. 1 song's loudness is higher every year.
+Few years ago many professionals in the music industry were talking about so called [loudness war](https://en.wikipedia.org/wiki/Loudness_war). It used to be a hot topic in the 2010's. My analysis shows that despite many critical voices in the industry loudness war continues. The averege Billboard No. 1 song's loudness is higher every year. What's the reason for this? When you play a song and the next song will sound louder, your brain will perceive it as 'better sounding' (there are some exceptions to this rule, but it works in most of the real-life situations). Louder song is *salient* - it catches your attention better!
 
 
 ![Loudness](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/loudness.png)
+
+
+### Durration
+
+My analysis showed that the average Billboard No. 1 song is shorter every year (starting from 1990). We can speculate that it is connected with the fact that many people experience the feeling of having not enough time.
+
+![Duration](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/duration.png)
+
+
+### 'Speechiness'
+
+'Speechiness' is descibed in [Spotify API docs](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/) as follows:
+
+*(...) the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value.*
+
+The average Billboard No. 1 hit is more and more spoken every year.
+
+![Speechiness](https://raw.githubusercontent.com/AlxndrMlk/DataIncubator/master/graphs/speechiness.png)
